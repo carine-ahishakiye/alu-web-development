@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>base_index</title>
+    <link href="base.css" rel="stylesheet">
+<link href="styles.css" rel="stylesheet">
+</head>
+<body class='works_on_smartphone'>
+  <main>
+    <article>
+    <h1>base index</h1>
+    <h2>This is basics to html </h2>
+</article>
+<aside>
+    <h3>suitable for beginners</h3>
+</aside>
+</main>
+    <header>
+        <ul>
+   <li> <a href="tweets.html">MY TWEETS</a></li>
+   <li> <a href="https://www.holbertonschool.com/"><img src="https://i.pinimg.com/736x/da/3a/72/da3a72a0db5e8d645ea939818fc39082.jpg" alt=""></a></li>
+   </ul>
+</header>
+<footer>
+    <p>Made by Carine YIBUKABAYO - <a href="github.com/Carine-Ahishakiye" target="_blank">here</a>.</p>
+</footer>
+</body>
+</html>
